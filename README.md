@@ -3,8 +3,8 @@
 thinkphp6 验证码类库，支持API接口。
 
 ## 安装
-> composer require raiseinfo/think-captcha
-> composer.json 添加： "raiseinfo/think-captcha": "dev-master"
+> composer require raiseinfo/think-captcha-plus
+> composer.json 添加： "raiseinfo/think-captcha-plus": "dev-master"
 
 
 ## 说明
