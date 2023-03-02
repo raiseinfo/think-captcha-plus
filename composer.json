@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "raiseinfo\\captcha\\": "src/"
+            "raiseinfo\\captcha-plus\\": "src/"
         },
         "files": [
             "src/helper.php"
@@ -22,10 +22,10 @@
     "extra": {
         "think": {
             "services": [
-                "raiseinfo\\captcha\\CaptchaService"
+                "raiseinfo\\captcha-plus\\CaptchaService"
             ],
             "config":{
-                "captcha": "src/config.php"
+                "captcha-plus": "src/config.php"
             }            
         }
     }
