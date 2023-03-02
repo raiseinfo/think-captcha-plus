@@ -7,6 +7,7 @@
             "email": "494901823@qq.com"
         }
     ],
+	"minimum-stability": "dev",
     "license": "Apache-2.0",
     "require": {
         "topthink/framework": "^6.0.0"
